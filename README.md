@@ -24,7 +24,7 @@ __University of Illinois at Urbana-Champaign__
 
 <div>
     <p align="center">
-      <a href="https://github-readme-stats.vercel.app/api/pin/?username=Watcher-S&repo=ChessCommand&theme=solarized-light">
+      <a href="https://github.com/Watcher-S/ChessCommand">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Watcher-S&repo=ChessCommand&theme=solarized-light" />
       </a>
     </p>
@@ -37,7 +37,7 @@ __University of Illinois at Urbana-Champaign__
 
 <div>
     <p align="center">
-      <a href="https://github-readme-stats.vercel.app/api?username=Watcher-S&theme=solarized-light&show_icons=true">
+      <a href="https://github.com/Watcher-S/">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Watcher-S&theme=solarized-light&show_icons=true" />
       </a>
     </p>
