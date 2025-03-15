@@ -16,11 +16,6 @@ __University of Illinois at Urbana-Champaign__
 - BADM300 The Legal Environment of Business
 
 
-
-<p align="center">
-  <b>Check out my new GitHub project:</b>
-</p>
-
 <h2>👀 Stats</h2>
 
 
