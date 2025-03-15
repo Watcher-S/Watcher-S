@@ -37,9 +37,6 @@ __University of Illinois at Urbana-Champaign__
 
 Around Chicago?
 Drop an email and let's talk over coffee!
- 
-- Write to me: [watcher.sim@gmail.com](mailto:watcher.sim@gmail.com)
-
 <h2>📫 How to reach me:</h2>
 
 <a href="mailto:watcher.sim@gmail.com">![watcher.sim@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
