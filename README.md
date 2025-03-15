@@ -21,17 +21,6 @@ __University of Illinois at Urbana-Champaign__
   <b>Check out my new GitHub project:</b>
 </p>
 
-
-<div>
-    <p align="center">
-      <a href="https://github.com/Watcher-S/ChessCommand">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Watcher-S&repo=ChessCommand&theme=solarized-light" />
-      </a>
-    </p>
-</div>
-
-
-
 <h2>👀 Stats</h2>
 
 
